@@ -1,10 +1,12 @@
 # ASCIIMathPHP
 
-It code is a PHP5 port of ASCIIMath 2.0. See the licence in the ASCIIMathPHP-2.1.class.php file.
+This code is a PHP5 port of ASCIIMath 2.0. 
 
-ChangeLog
+See the licence in the ASCIIMathPHP-2.1.class.php file.
 
-Ver 2.1 (30 December 2013)
+##ChangeLog
+
+<strong>Ver 2.1 (30 December 2013)</strong>
 - correct PHP5 object version of ASCIIMathPHP, MathMLNode, XMLNode
 - fixed bug of empty list in XMLNode (dumpXML & _dumpAttr)
 
